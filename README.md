@@ -1,7 +1,7 @@
 ## Olá, Bem Vindo meu **Hello Word**
-<section>
+
   📫 No momento estou assistindo anime: nilsongithub@gmail.com ![MuaKissGIF (2)] (https://github.com/user-attachments/assets/e7a5e0d8-6ab3-4467-8a85-f31dcb713b53)
-</section>
+
 
 
 <!--
