@@ -9,7 +9,7 @@
 
 ---
 <h2>🚀 Projetos</h2>
-<h3>Em desenvovimento</h3>
+<h3>Em desenvovimento:</h3>
 
 <div>
   <div>
