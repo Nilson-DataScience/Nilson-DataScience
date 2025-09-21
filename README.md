@@ -1,22 +1,22 @@
-## Olá, Bem Vindo meu **Hello Word**
+# 🚀 Bem vindo ao meu **Hello Word**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
+</p>
 
--📫 No momento estou assistindo anime, entre em contato: nilsongithub@gmail.com                        
+💻 Desenvolvedor focado em criar soluções criativas e funcionais  
 
-![MuaKissGIF (2)] (https://github.com/user-attachments/assets/e7a5e0d8-6ab3-4467-8a85-f31dcb713b53)
+📫 Contato: [nilsongithub@gmail.com](mailto:nilsongithub@gmail.com)
 
+---
 
+---
 
-<!--
-**Nilson-DataScience/Nilson-DataScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estatísticas do GitHub
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilson-DataScience&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilson-DataScience&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilson-DataScience&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
