@@ -8,6 +8,13 @@
 📫 Contato: [nilsongithub@gmail.com](mailto:nilsongithub@gmail.com)
 
 ---
+<h2>🚀 Projeto 3º Trimestre 2025</h2>
+
+<div>
+  <div>
+    <p>🧙‍♂️ RPG Medieval de Terminal</p>
+    <img src="https://github.com/user-attachments/assets/3251bfe8-5f52-4914-af5e-c95fae4985a1" width="150"/>
+  </div>
 
 ---
 
