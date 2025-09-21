@@ -8,10 +8,6 @@
 📫 Contato: [nilsongithub@gmail.com](mailto:nilsongithub@gmail.com)
 
 ---
-<audio controls autoplay>
-  <source src="seu-audio.mp3" type="audio/mpeg">
-  Seu navegador não suporta áudio.
-</audio>
 
 ---
 
