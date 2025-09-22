@@ -1,6 +1,6 @@
 # 🚀 Bem vindo ao meu **Hello Word**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Cientista+de+Dados" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Eu+amo+o+que+faço;Desenvolvedor;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Cientista+de+Dados" />
 </p>
 
 💻 Desenvolvedor focado em criar soluções criativas e funcionais  
