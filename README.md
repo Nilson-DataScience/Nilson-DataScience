@@ -11,10 +11,15 @@
 <h2>🚀 Projetos</h2>
 <h3>Em desenvovimento:</h3>
 
-<div>
+
   <div>
-    <p>🧙‍♂️ RPG Medieval de Terminal</p>
+    <p><b>🧙‍♂️ RPG Medieval de Terminal</b></p>
     <img src="https://github.com/user-attachments/assets/3251bfe8-5f52-4914-af5e-c95fae4985a1" width="150"/>
+  </div>
+  <br>
+   <div>
+    <p>👾<b>Site Pokedex</b></p>
+    <img src="https://github.com/user-attachments/assets/81563c88-20d1-494e-90ce-7dfedf1b29b2" width="150"/>
   </div>
 
 ---
