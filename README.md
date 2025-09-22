@@ -13,7 +13,7 @@
 
 
   <div>
-    <p><b>🧙‍♂️ RPG Medieval de Terminal</b></p>
+    <p> <a href="https://github.com/Nilson-DataScience/CECMagic-Gravity"><b>🧙‍♂️RPG Medieval de Terminal</b></a></p>
     <img src="https://github.com/user-attachments/assets/3251bfe8-5f52-4914-af5e-c95fae4985a1" width="150"/>
   </div>
   <br>
