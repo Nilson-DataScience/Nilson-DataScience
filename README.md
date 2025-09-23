@@ -22,6 +22,11 @@
     <p>👾<b>Site Pokedex</b></p>
     <img src="https://github.com/user-attachments/assets/81563c88-20d1-494e-90ce-7dfedf1b29b2" width="150"/>
   </div>
+  <br>
+   <div>
+    <p>👾<b>Galeria de Fotos</b></p>
+    <img src="https://github.com/user-attachments/assets/26785d90-048a-42ed-8b3b-4c468fe8ac11" width="150"/>
+  </div>
 
 ---
 
